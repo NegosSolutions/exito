@@ -1,8 +1,6 @@
 /*
     
-TemplateMo 556 ÉXITO
-
-https://templatemo.com/tm-556-ÉXITO
+ᗩᔕ༒尺۝
 
 */
 
@@ -212,7 +210,7 @@ a.tm-text-primary:hover { color:#666666; }
 
 .nav-item { margin-right: 30px; }
 .nav-item:last-child { margin-right: 0; }
-
+/* CSS Barra */
 .nav-link {
     color: #666666;
     border-bottom: 4px solid transparent;
@@ -237,6 +235,16 @@ a.tm-text-primary:hover { color:#666666; }
 .nav-link-4.active,
 .nav-link-4:hover {
     border-color: #CC66CC;
+}
+
+.nav-link-5.active,
+.nav-link-5:hover {
+    border-color: #66ccaf;
+}
+
+.nav-link-6.active,
+.nav-link-6:hover {
+    border-color: #afcc66;
 }
 
 .tm-search-input {
